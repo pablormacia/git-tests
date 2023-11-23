@@ -6,3 +6,5 @@ Son las 11:37
 =======
 Son las 11:36
 >>>>>>> refs/remotes/origin/main
+
+Son las 12:09. Estoy haciendo cambios en otra rama
